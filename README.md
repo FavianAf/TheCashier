@@ -10,7 +10,7 @@ Aplikasi ini merupakan aplikasi untuk menghitung checkout pembayaran.
 Terdapat dua kelas yaitu kelas Item dan Calcuator
 Kelas Item
 
-## Calculator.cs
+### Calculator.cs
 '''CSharp
 using System;
 using System.Collections.Generic;
