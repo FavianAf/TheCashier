@@ -11,7 +11,7 @@ Terdapat dua kelas yaitu kelas Item dan Calcuator
 Kelas Item
 
 ### Calculator.cs
-'''CSharp
+'''C#
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -63,4 +63,5 @@ namespace TheCashier
     }
 }
 '''
+
 kelas itu
