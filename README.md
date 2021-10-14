@@ -9,6 +9,7 @@ Aplikasi ini merupakan aplikasi untuk menghitung checkout pembayaran.
 ## Penjelasan Code
 Terdapat dua kelas yaitu kelas Item dan Calcuator
 Kelas Item
+
 ...
 using System;
 using System.Collections.Generic;
@@ -24,8 +25,7 @@ namespace TheCashier
         public double price { get; set; }
         public double subtotal { get; set; }
         private string type;
-        
-        public Item(int id, string title, int quantity, string type, double price) 
+       public Item(int id, string title, int quantity, string type, double price) 
         {
             this.id = id;
             this.title = title;
